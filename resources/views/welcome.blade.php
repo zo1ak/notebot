@@ -1,7 +1,7 @@
 <html>
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=WINDOWS-1251">
-    <title>Генератор Новогодних поздравлений! Новогодние поздравления. CMC новогодние поздравления и пожелания.</title>
+    <title>Дед мороз - красный нос!</title>
     <meta name="description"
           content="Генератор новогодних поздравлений.Поздравить коллег и партнёров с Новым Годом! Новогодние поздравления. Новогодние CMC поздравления.">
     <meta name="keywords"
@@ -72,15 +72,11 @@
     /* display: inline-block; */
     /* width: 25%; */
     "></div>
-                                        <div align="center" style="
+                                        <div align=s"center" style="
     width: 48%;
     display: inline-block;
     text-align: center;
 ">
-                                            <iframe id="adv_kod_frame"
-                                                    src="http://fresh-video.com/kod.php?param=575969486c745856395a6d4634682b6476664f646a4234577152456262674662757a524248337167654a3965734f4c4c515a764156413d3d"
-                                                    width="550" height="350" frameborder="0" scrolling="no"
-                                                    allowfullscreen="true"></iframe>
                                             <script type="text/javascript"
                                                     src="http://fresh-video.com/player_html5/iframeobrabotchik.js"></script>
                                             <br>
